@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prasad Kamble</h1>
+<h1 align="center">Hi 👋 , I'm Prasad Kamble</h1>
 <h3 align="center">A passionate Computer Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-prasadkumar&label=Profile%20views&color=0e75b6&style=flat" alt="k-prasadkumar" /> </p>
@@ -17,10 +17,17 @@
 
 - 📫 How to reach me **Prasadkamble855@gmail.com**
 
+- 📄 Know about my Resume [https://bit.ly/3wGGWxI](https://bit.ly/3wGGWxI)
+
 - ⚡ Fun fact **Sometimes I think im Funny but i always focuse on My Goals .**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/https://dev.to/prasadkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/prasadkumar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/prasad-kamble-4730b2203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prasad-kamble-4730b2203" height="30" width="40" /></a>
 </p>
 
