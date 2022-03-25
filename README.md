@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Java Full Stack Developer , Data Science , Deep Learning , many programming languages ex. Java , c , c++ , PHP , Python , JavaScript , kolthin**
 
-- 👨‍💻 All of my projects are available [Coming soon](Coming soon)
+- 👨‍💻 All of my projects are available (Coming soon)
 
-- 📝 I Trying to write articles on [Science and technology coming soon](Science and technology coming soon)
+- 📝 I Trying to write articles on (Science and technology coming soon)
 
 - 💬 Ask me about **Programing Languages , Frameworks , New technologies , Computer science , Quantam computers**
 
